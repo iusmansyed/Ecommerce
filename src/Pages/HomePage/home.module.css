@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.mainDiv{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid red;
+}
+.mainDiv div h1{
+    font-size: 90px;
+    cursor: pointer;
+}
